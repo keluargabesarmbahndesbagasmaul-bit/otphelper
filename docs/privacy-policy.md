@@ -1,4 +1,4 @@
----
+io.github.jd1378.otphelper.actions.code_detected---
 layout: default
 title: Privacy Policy
 ---
